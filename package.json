@@ -1,0 +1,26 @@
+{
+  "name": "DoctorCalendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingjuju/DoctorCalendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyingjuju/DoctorCalendar/issues"
+  },
+  "homepage": "https://github.com/flyingjuju/DoctorCalendar#readme",
+  "dependencies": {
+    "nodemon": "^1.19.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9"
+  }
+}
